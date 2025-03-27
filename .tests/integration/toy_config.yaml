@@ -1,0 +1,7 @@
+CONDITIONS: ["toy"]
+KMERS: ["19", "21", "25", "27"]
+reads_dir: "tests/integration/toy_reads"
+results: "test_results"
+REPLICATES: ["1","2"]
+
+

@@ -1,0 +1,5 @@
+CONDITIONS: ["ref", "etoh60", "temp33"]
+KMERS: ["19", "21", "25", "27"]
+reads_dir: "reads"
+REPLICATES: ["1","2","3"]
+
